@@ -1,0 +1,30 @@
+{
+  "name": "SolveOku",
+  "version": "0.0.1",
+  "description": "Human possible Sudoku Solver",
+  "main": "index.js",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mcafee123/SolveOku"
+  },
+  "keywords": [
+    "sudoku",
+    "solver"
+  ],
+  "author": {
+    "name": "Martin Affolter",
+    "email": "martin@affolter.net"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mcafee123/SolveOku/issues"
+  },
+  "homepage": "https://github.com/Mcafee123/SolveOku"
+}
