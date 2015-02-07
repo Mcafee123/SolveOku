@@ -2,6 +2,6 @@
 angular.module('solveoku').factory('versionSvc', function () {
     'use strict';
     return {
-        AVGBuildVersion: '0.0.1'
+        SolveOkuVersion: '0.0.1'
     };
 });
